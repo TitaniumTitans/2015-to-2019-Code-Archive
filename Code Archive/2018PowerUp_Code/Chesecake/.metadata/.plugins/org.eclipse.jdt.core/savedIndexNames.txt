@@ -1,0 +1,1 @@
+INDEX VERSION 1.130+C:\Users\samjt\Google Drive\2018PowerUp_Code\Chesecake\.metadata\.plugins\org.eclipse.jdt.core
